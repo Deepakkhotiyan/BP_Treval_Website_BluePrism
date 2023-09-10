@@ -3,13 +3,14 @@ In this case, I have automated the BP Travel Website. We will login to the Bp we
 
 <img width="960" alt="LogIn Page" src="https://github.com/Deepakkhotiyan/BP_Treval_Website_BluePrism/assets/87259147/78472bb7-5e9e-47d9-b8bc-75cae6e0aa83">
 
+
 <img width="960" alt="Website view" src="https://github.com/Deepakkhotiyan/BP_Treval_Website_BluePrism/assets/87259147/b8071d85-9b56-4548-9076-9cff708ce64a">
 
 Some Images Of BP Travel Website In Blue Prism
 ----------------------------------------------
 
---> LogIn Page
-
+ --> LogIn Page
+     ----------
 <img width="960" alt="Process logIn" src="https://github.com/Deepakkhotiyan/BP_Treval_Website_BluePrism/assets/87259147/22b6198c-272a-40d1-9790-db9e1e3951c9">
 
 --> Object Studio Views
