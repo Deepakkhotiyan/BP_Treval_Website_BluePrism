@@ -10,7 +10,7 @@ Some Images Of BP Travel Website In Blue Prism
 ----------------------------------------------
 
  --> LogIn Page
-     ----------
+ 
 <img width="960" alt="Process logIn" src="https://github.com/Deepakkhotiyan/BP_Treval_Website_BluePrism/assets/87259147/22b6198c-272a-40d1-9790-db9e1e3951c9">
 
 --> Object Studio Views
@@ -25,3 +25,10 @@ Some Images Of BP Travel Website In Blue Prism
 
 <img width="959" alt="Ref Image" src="https://github.com/Deepakkhotiyan/BP_Treval_Website_BluePrism/assets/87259147/6db54b48-a5cf-466c-aacc-0589a11c9a58">
 
+--> Read Excel and Store In Collection
+
+<img width="960" alt="Read Excel" src="https://github.com/Deepakkhotiyan/BP_Treval_Website_BluePrism/assets/87259147/9294000e-091b-41e4-9a41-45008de3af4d">
+
+--> Write Excel 
+
+<img width="960" alt="Write Excel" src="https://github.com/Deepakkhotiyan/BP_Treval_Website_BluePrism/assets/87259147/d1e6ad87-4b1e-4b6a-b245-2ba59dd5fb61">
